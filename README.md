@@ -7,12 +7,20 @@ It includes three iris species with 50 samples each as well as some properties o
 Attribute Information:
 
 sepal length in cm
+
 sepal width in cm
+
 petal length in cm
+
 petal width in cm
+
 class:
+
 -- Iris Setosa
+
 -- Iris Versicolour
+
 -- Iris Virginica
+
 
 source: https://www.kaggle.com/datasets/himanshunakrani/iris-dataset/data
